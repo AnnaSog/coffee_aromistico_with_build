@@ -1,0 +1,20 @@
+.coffee {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.coffee_block {
+    margin: 0 auto;
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    height: 260px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 8px 8px 20px 2px rgb(0 0 0 / 15%)
+}
+.coffee_box{
+    margin-bottom: 14px;
+}

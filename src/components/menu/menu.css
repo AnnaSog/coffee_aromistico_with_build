@@ -1,0 +1,11 @@
+.menu {
+    font-family: Merienda;
+}
+.menu_item {
+    width: 77px;
+    height: 13px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    text-decoration: none;
+}
+

@@ -1,0 +1,17 @@
+.footer {
+    height: 150px;
+    padding: 52px 0 22px 0;
+    text-align: center;
+}
+.footer_menu {
+    font-size: 12px;
+    line-height: 17px;
+    color: #000000;
+    margin-right: 20px;
+    text-decoration: none;
+}
+.logo_black {
+    margin-top: 30px;
+    margin-bottom: 22px;
+}
+

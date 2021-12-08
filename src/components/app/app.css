@@ -1,0 +1,32 @@
+.app {
+    font-family: Merienda, sans-serif;
+}
+p {
+    text-align: center;
+}
+.coffee_block {
+    margin-top: 50px;
+}
+
+@media(max-width: 575px) {
+    .menu {
+        display: flex;
+    }
+    .aboutIt_info {
+        margin-left: auto;  
+    } 
+    .coffee {
+        grid-template-columns: auto;
+    }
+    .beans_ourCoffee {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .beans_second {
+        margin-left: auto;
+    }
+    .footer_items {
+        display: flex; 
+    }  
+}
